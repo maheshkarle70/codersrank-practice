@@ -1,0 +1,6 @@
+p, li, h1 {
+  color: red;
+}
+a[href="https://www.google.co.in"] {
+  background-color: yellow
+}
